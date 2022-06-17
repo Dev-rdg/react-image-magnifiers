@@ -75,6 +75,6 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react-input-position": "git+https://github.com/Dev-rdg/react-input-position.git#112be7e1bd7c1f36fb3f7d38086fe4847c5b46b5"
+    "react-input-position": "git+https://github.com/Dev-rdg/react-input-position.git#a0bcfb7971625c4a46e3d5c1a498dafedc16bc4f"
   }
 }
